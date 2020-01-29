@@ -5,8 +5,6 @@ using UnityEngine;
 public class RotateAroundCamera : MonoBehaviour
 {
     public Transform target;
-
-    [SerializeField] private float sensitivity = 0.05f;
     
     [SerializeField] private float distance = 15f;
     [SerializeField] private float xSpeed = 120.0f;
@@ -33,8 +31,8 @@ public class RotateAroundCamera : MonoBehaviour
     {
         if (target && Input.GetMouseButton(1)) 
         {
-            x += Input.GetAxis("Mouse X") * xSpeed * distance * sensitivity;
-            y -= Input.GetAxis("Mouse Y") * ySpeed * sensitivity;
+            x += Input.GetAxis("Mouse X") * xSpeed * distance ;
+            y -= Input.GetAxis("Mouse Y") * ySpeed ;
  
             y = AngleExtension.ClampAngle(y, yMinLimit, yMaxLimit);
  

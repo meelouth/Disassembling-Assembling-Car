@@ -15,7 +15,7 @@
     <ProductVersion>10.0.20506</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
     <RootNamespace></RootNamespace>
-    <ProjectGuid>{4B28D936-F637-B603-A04C-E9362487D3C9}</ProjectGuid>
+    <ProjectGuid>{AF475721-285C-6FAC-F53F-92E2DCDF6A51}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <AssemblyName>Assembly-CSharp</AssemblyName>
@@ -67,25 +67,25 @@
     <Compile Include="Assets\Scripts\UI\DisassembleAssembleCarButton.cs" />
     <Compile Include="Assets\Scripts\UI\FaceTheCamera.cs" />
     <Reference Include="Unity.Timeline.Editor">
-      <HintPath>D:/ProjectsUnity/Disassembling-Car/Library/ScriptAssemblies/Unity.Timeline.Editor.dll</HintPath>
+      <HintPath>D:/ProjectsUnity/Disassembling-Assembling-Car/Library/ScriptAssemblies/Unity.Timeline.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.TextMeshPro.Editor">
-      <HintPath>D:/ProjectsUnity/Disassembling-Car/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
+      <HintPath>D:/ProjectsUnity/Disassembling-Assembling-Car/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.PackageManagerUI.Editor">
-      <HintPath>D:/ProjectsUnity/Disassembling-Car/Library/ScriptAssemblies/Unity.PackageManagerUI.Editor.dll</HintPath>
+      <HintPath>D:/ProjectsUnity/Disassembling-Assembling-Car/Library/ScriptAssemblies/Unity.PackageManagerUI.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Timeline">
-      <HintPath>D:/ProjectsUnity/Disassembling-Car/Library/ScriptAssemblies/Unity.Timeline.dll</HintPath>
+      <HintPath>D:/ProjectsUnity/Disassembling-Assembling-Car/Library/ScriptAssemblies/Unity.Timeline.dll</HintPath>
     </Reference>
     <Reference Include="Unity.CollabProxy.Editor">
-      <HintPath>D:/ProjectsUnity/Disassembling-Car/Library/ScriptAssemblies/Unity.CollabProxy.Editor.dll</HintPath>
+      <HintPath>D:/ProjectsUnity/Disassembling-Assembling-Car/Library/ScriptAssemblies/Unity.CollabProxy.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.TextMeshPro">
-      <HintPath>D:/ProjectsUnity/Disassembling-Car/Library/ScriptAssemblies/Unity.TextMeshPro.dll</HintPath>
+      <HintPath>D:/ProjectsUnity/Disassembling-Assembling-Car/Library/ScriptAssemblies/Unity.TextMeshPro.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Analytics.DataPrivacy">
-      <HintPath>D:/ProjectsUnity/Disassembling-Car/Library/ScriptAssemblies/Unity.Analytics.DataPrivacy.dll</HintPath>
+      <HintPath>D:/ProjectsUnity/Disassembling-Assembling-Car/Library/ScriptAssemblies/Unity.Analytics.DataPrivacy.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.AIModule">
       <HintPath>S:/Program Files/2019.1.3f1/Editor/Data/Managed/UnityEngine/UnityEngine.AIModule.dll</HintPath>
@@ -271,13 +271,13 @@
       <HintPath>S:/Program Files/2019.1.3f1/Editor/Data/UnityExtensions/Unity/TestRunner/net35/unity-custom/nunit.framework.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Analytics.Editor">
-      <HintPath>D:/ProjectsUnity/Disassembling-Car/Library/PackageCache/com.unity.analytics@3.3.2/Unity.Analytics.Editor.dll</HintPath>
+      <HintPath>D:/ProjectsUnity/Disassembling-Assembling-Car/Library/PackageCache/com.unity.analytics@3.3.2/Unity.Analytics.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Analytics.StandardEvents">
-      <HintPath>D:/ProjectsUnity/Disassembling-Car/Library/PackageCache/com.unity.analytics@3.3.2/Unity.Analytics.StandardEvents.dll</HintPath>
+      <HintPath>D:/ProjectsUnity/Disassembling-Assembling-Car/Library/PackageCache/com.unity.analytics@3.3.2/Unity.Analytics.StandardEvents.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Analytics.Tracker">
-      <HintPath>D:/ProjectsUnity/Disassembling-Car/Library/PackageCache/com.unity.analytics@3.3.2/Unity.Analytics.Tracker.dll</HintPath>
+      <HintPath>D:/ProjectsUnity/Disassembling-Assembling-Car/Library/PackageCache/com.unity.analytics@3.3.2/Unity.Analytics.Tracker.dll</HintPath>
     </Reference>
     <Reference Include="netstandard">
       <HintPath>S:/Program Files/2019.1.3f1/Editor/Data/NetStandard/ref/2.0.0/netstandard.dll</HintPath>

@@ -6,8 +6,6 @@ public class FaceTheCamera : MonoBehaviour
 {
     private Transform cameraTransform;
     private Transform objectTransform;
-
-    [SerializeField] private float rotationSpeed;
     
     void Start()
     {
@@ -29,7 +27,7 @@ public class FaceTheCamera : MonoBehaviour
             return;
         }
 
-        var rotation = cameraTransform.rotation;
+        Quaternion rotation = cameraTransform.rotation;
         objectTransform.LookAt(transform.position + rotation * Vector3.forward, 
         rotation * Vector3.up);
     }
