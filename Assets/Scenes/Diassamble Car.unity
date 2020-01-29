@@ -420,7 +420,7 @@ MonoBehaviour:
   description: Typical left door
   worldSpaceCanvasPrefab: {fileID: 1612762618328732223, guid: a23d70578c87bbd498f9444c955e3f7a,
     type: 3}
-  spawnOffsetFromObject: {x: -2, y: 0, z: 0}
+  spawnOffsetFromObject: {x: -1, y: 0, z: 0}
 --- !u!114 &750356643
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -613,7 +613,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 963194225}
   m_LocalRotation: {x: 0.13052596, y: 0, z: 0, w: 0.9914449}
-  m_LocalPosition: {x: 0, y: 3.882279, z: -14.488889}
+  m_LocalPosition: {x: 0, y: 2.588186, z: -9.65926}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
@@ -632,7 +632,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   target: {fileID: 4013072642633127}
-  distance: 15
+  distance: 10
   xSpeed: 1
   ySpeed: 1
   yMinLimit: -20
@@ -699,7 +699,7 @@ MonoBehaviour:
   description: The cooler door than left!
   worldSpaceCanvasPrefab: {fileID: 1612762618328732223, guid: a23d70578c87bbd498f9444c955e3f7a,
     type: 3}
-  spawnOffsetFromObject: {x: 2, y: 0, z: 0}
+  spawnOffsetFromObject: {x: 1, y: 0, z: 0}
 --- !u!65 &965834900
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -896,7 +896,7 @@ MonoBehaviour:
   description: Right door
   worldSpaceCanvasPrefab: {fileID: 1612762618328732223, guid: a23d70578c87bbd498f9444c955e3f7a,
     type: 3}
-  spawnOffsetFromObject: {x: 2, y: 0, z: 0}
+  spawnOffsetFromObject: {x: 1, y: 0, z: 0}
 --- !u!65 &1338113387
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -973,7 +973,7 @@ MonoBehaviour:
   description: Hood front
   worldSpaceCanvasPrefab: {fileID: 1612762618328732223, guid: a23d70578c87bbd498f9444c955e3f7a,
     type: 3}
-  spawnOffsetFromObject: {x: 0, y: 2, z: 0}
+  spawnOffsetFromObject: {x: 0, y: 1, z: 0}
 --- !u!114 &1813113067
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -1054,7 +1054,7 @@ MonoBehaviour:
   description: Hood back
   worldSpaceCanvasPrefab: {fileID: 1612762618328732223, guid: a23d70578c87bbd498f9444c955e3f7a,
     type: 3}
-  spawnOffsetFromObject: {x: 0, y: 2, z: 0}
+  spawnOffsetFromObject: {x: 0, y: 1, z: 0}
 --- !u!114 &1859447106
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -1135,7 +1135,7 @@ MonoBehaviour:
   description: Typical front left door
   worldSpaceCanvasPrefab: {fileID: 1612762618328732223, guid: a23d70578c87bbd498f9444c955e3f7a,
     type: 3}
-  spawnOffsetFromObject: {x: -2, y: 0, z: 0}
+  spawnOffsetFromObject: {x: -1, y: 0, z: 0}
 --- !u!114 &1960155476
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -1324,7 +1324,7 @@ MonoBehaviour:
   description: Description
   worldSpaceCanvasPrefab: {fileID: 1612762618328732223, guid: a23d70578c87bbd498f9444c955e3f7a,
     type: 3}
-  spawnOffsetFromObject: {x: 0, y: 2, z: -4}
+  spawnOffsetFromObject: {x: 0, y: 0, z: -3.3}
 --- !u!65 &1057240665965488
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -1393,7 +1393,7 @@ MonoBehaviour:
   description: Description
   worldSpaceCanvasPrefab: {fileID: 1612762618328732223, guid: a23d70578c87bbd498f9444c955e3f7a,
     type: 3}
-  spawnOffsetFromObject: {x: -2, y: 0, z: 0}
+  spawnOffsetFromObject: {x: -1, y: 0, z: 0}
 --- !u!65 &1132656464242741
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -1462,7 +1462,7 @@ MonoBehaviour:
   description: Description
   worldSpaceCanvasPrefab: {fileID: 1612762618328732223, guid: a23d70578c87bbd498f9444c955e3f7a,
     type: 3}
-  spawnOffsetFromObject: {x: -2, y: 0, z: 0}
+  spawnOffsetFromObject: {x: -1, y: 0, z: 0}
 --- !u!65 &1188388755310597
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -1617,7 +1617,7 @@ MonoBehaviour:
   description: Description
   worldSpaceCanvasPrefab: {fileID: 1612762618328732223, guid: a23d70578c87bbd498f9444c955e3f7a,
     type: 3}
-  spawnOffsetFromObject: {x: 2, y: 0, z: 0}
+  spawnOffsetFromObject: {x: 1, y: 0, z: 0}
 --- !u!65 &1311625950381597
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -1972,7 +1972,7 @@ MonoBehaviour:
   description: Description
   worldSpaceCanvasPrefab: {fileID: 1612762618328732223, guid: a23d70578c87bbd498f9444c955e3f7a,
     type: 3}
-  spawnOffsetFromObject: {x: 0, y: 0, z: 4}
+  spawnOffsetFromObject: {x: 0, y: 0, z: 3.3}
 --- !u!65 &1884716030778994
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -2059,7 +2059,7 @@ MonoBehaviour:
   description: Description
   worldSpaceCanvasPrefab: {fileID: 1612762618328732223, guid: a23d70578c87bbd498f9444c955e3f7a,
     type: 3}
-  spawnOffsetFromObject: {x: 2, y: 0, z: 0}
+  spawnOffsetFromObject: {x: 1, y: 0, z: 0}
 --- !u!65 &1977516524986875
 BoxCollider:
   m_ObjectHideFlags: 0
