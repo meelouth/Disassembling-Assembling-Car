@@ -1320,7 +1320,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: eb97c4c9abdc9044dbe0cc1692485b26, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  name: Part Name
+  name: Back bamper
   description: Description
   worldSpaceCanvasPrefab: {fileID: 1612762618328732223, guid: a23d70578c87bbd498f9444c955e3f7a,
     type: 3}
@@ -1968,8 +1968,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: eb97c4c9abdc9044dbe0cc1692485b26, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  name: Part Name
-  description: Description
+  name: Front bamper
+  description: Best bamper in the world
   worldSpaceCanvasPrefab: {fileID: 1612762618328732223, guid: a23d70578c87bbd498f9444c955e3f7a,
     type: 3}
   spawnOffsetFromObject: {x: 0, y: 0, z: 3.3}
