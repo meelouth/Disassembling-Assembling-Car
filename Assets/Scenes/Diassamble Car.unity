@@ -157,8 +157,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 0, y: 0}
-  m_AnchoredPosition: {x: 121.2, y: 154.3}
-  m_SizeDelta: {x: 235.5, y: 96.9}
+  m_AnchoredPosition: {x: 121.2, y: 131.7}
+  m_SizeDelta: {x: 235.5, y: 51.8}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &127155266
 MonoBehaviour:
@@ -229,7 +229,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   m_Material: {fileID: 0}
-  m_Color: {r: 1, g: 1, b: 1, a: 1}
+  m_Color: {r: 0.8962264, g: 0.89199895, b: 0.89199895, a: 1}
   m_RaycastTarget: 1
   m_OnCullStateChanged:
     m_PersistentCalls:
@@ -420,7 +420,7 @@ MonoBehaviour:
   description: Typical left door
   worldSpaceCanvasPrefab: {fileID: 1612762618328732223, guid: a23d70578c87bbd498f9444c955e3f7a,
     type: 3}
-  spawnOffsetFromObject: {x: -1, y: 0, z: 0}
+  spawnOffsetFromObject: {x: 0, y: 1.7, z: 0}
 --- !u!114 &750356643
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -489,7 +489,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 1, y: 1}
-  m_AnchoredPosition: {x: -0.025001526, y: -2.5}
+  m_AnchoredPosition: {x: -0.025001526, y: 0}
   m_SizeDelta: {x: 0.049988, y: -5}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &801588813
@@ -699,7 +699,7 @@ MonoBehaviour:
   description: The cooler door than left!
   worldSpaceCanvasPrefab: {fileID: 1612762618328732223, guid: a23d70578c87bbd498f9444c955e3f7a,
     type: 3}
-  spawnOffsetFromObject: {x: 1, y: 0, z: 0}
+  spawnOffsetFromObject: {x: 0, y: 1.7, z: 0}
 --- !u!65 &965834900
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -896,7 +896,7 @@ MonoBehaviour:
   description: Right door
   worldSpaceCanvasPrefab: {fileID: 1612762618328732223, guid: a23d70578c87bbd498f9444c955e3f7a,
     type: 3}
-  spawnOffsetFromObject: {x: 1, y: 0, z: 0}
+  spawnOffsetFromObject: {x: 0, y: 1.7, z: 0}
 --- !u!65 &1338113387
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -973,7 +973,7 @@ MonoBehaviour:
   description: Hood front
   worldSpaceCanvasPrefab: {fileID: 1612762618328732223, guid: a23d70578c87bbd498f9444c955e3f7a,
     type: 3}
-  spawnOffsetFromObject: {x: 0, y: 1, z: 0}
+  spawnOffsetFromObject: {x: 0, y: 1.3, z: 0}
 --- !u!114 &1813113067
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -1135,7 +1135,7 @@ MonoBehaviour:
   description: Typical front left door
   worldSpaceCanvasPrefab: {fileID: 1612762618328732223, guid: a23d70578c87bbd498f9444c955e3f7a,
     type: 3}
-  spawnOffsetFromObject: {x: -1, y: 0, z: 0}
+  spawnOffsetFromObject: {x: 0, y: 1.7, z: 0}
 --- !u!114 &1960155476
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -1393,7 +1393,7 @@ MonoBehaviour:
   description: Description
   worldSpaceCanvasPrefab: {fileID: 1612762618328732223, guid: a23d70578c87bbd498f9444c955e3f7a,
     type: 3}
-  spawnOffsetFromObject: {x: -1, y: 0, z: 0}
+  spawnOffsetFromObject: {x: 0, y: 1.7, z: 0}
 --- !u!65 &1132656464242741
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -1459,10 +1459,10 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   name: Wheel back left
-  description: Description
+  description: 3213123 432423 232 112312 123124 323
   worldSpaceCanvasPrefab: {fileID: 1612762618328732223, guid: a23d70578c87bbd498f9444c955e3f7a,
     type: 3}
-  spawnOffsetFromObject: {x: -1, y: 0, z: 0}
+  spawnOffsetFromObject: {x: 0, y: 1.7, z: 0}
 --- !u!65 &1188388755310597
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -1617,7 +1617,7 @@ MonoBehaviour:
   description: Description
   worldSpaceCanvasPrefab: {fileID: 1612762618328732223, guid: a23d70578c87bbd498f9444c955e3f7a,
     type: 3}
-  spawnOffsetFromObject: {x: 1, y: 0, z: 0}
+  spawnOffsetFromObject: {x: 0, y: 1.7, z: 0}
 --- !u!65 &1311625950381597
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -2059,7 +2059,7 @@ MonoBehaviour:
   description: Description
   worldSpaceCanvasPrefab: {fileID: 1612762618328732223, guid: a23d70578c87bbd498f9444c955e3f7a,
     type: 3}
-  spawnOffsetFromObject: {x: 1, y: 0, z: 0}
+  spawnOffsetFromObject: {x: 0, y: 1.7, z: 0}
 --- !u!65 &1977516524986875
 BoxCollider:
   m_ObjectHideFlags: 0
